@@ -22,4 +22,4 @@ This project analyzes the historical stock price trends of three major tech comp
 - Seaborn & Matplotlib
 
 ## 🖼 Preview
-[Line Plot](images/lineplot.png)
+![Line Plot](images/lineplot.png)
